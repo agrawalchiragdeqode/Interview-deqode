@@ -13,4 +13,3 @@ Implement CRUD Operation for User - Time (60 Mins)
 - It should contain env file to get PORT and environment variables
 - Try to use validation library like JOI or express validator
 - Optional (You can implement sessions as well if you want)
-- 

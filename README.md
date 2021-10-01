@@ -12,9 +12,9 @@ Your solution _must_:
 
 - Expose a user model, with (at least) the following attributes:
   - **`id`** - _a unique user id_
-  - **`name`** - _in the UK this is the user's last name_
+  - **`name`** - _the user's name_
   - **`email`** - _a user's email address_
-  - **`password`** - _it should be increpted password_
+  - **`password`** - _it should be encrepted password_
   - **`created_at`** - _the date and time the user was added_
   - **`updated_at`** - _the date and time the user was updated_
 
